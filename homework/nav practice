@@ -1,15 +1,15 @@
 <!doctype html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <title> 測試網頁預覽 </title>
+  <meta charset="utf-8">
+  <title> 測試網頁預覽 </title>
   </head>
   <body>
-    <article>
-      <hgroup>
-        <h1 align="center"> 預設網站標題 </h1>
-        <h2> 第一超連結 </h2>
-      </hgroup>
+  <article>
+    <hgroup>
+    <h1 align="center"> 預設網站標題 </h1>
+    <h2> 第一超連結 </h2>
+    </hgroup>
     <nav>
       <ul>
       <li><a href="https://www.gamer.com.tw/"> 引導1 </a></li>
