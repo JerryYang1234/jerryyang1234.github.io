@@ -17,9 +17,9 @@
           <li><a href="https://store.steampowered.com/?l=tchinese"> 引導3 </a></li>
           </ul>
         </nav>
+         <footer>
+           <p> <small> 小型連結網站不支援正常網站.</small> </p>
+         </footer>
     </article>
   </body>
-  <footer>
-    <p> <small> 小型連結網站不支援正常網站.</small> </p>
-  </footer>
 </html>
