@@ -7,13 +7,13 @@
   <body>
     <article>
       <hgroup>
-        <h1> 預設網站 </h1>
+        <h1 align="center"> 預設網站標題 </h1>
         <h2> 第一超連結 </h2>
       </hgroup>
     <nav>
       <ul>
-      <li><a href="https://www.gamer.com.tw/"> 引導1 </li>
-      <li><a href="https://www.youtube.com/"> 引導2 </li>
+      <li><a href="https://www.gamer.com.tw/"> 引導1 </a></li>
+      <li><a href="https://www.youtube.com/"> 引導2 </a></li>
       <li><a href="https://store.steampowered.com/?l=tchinese"> 引導3 </li>
       </ul>
     </nav>
