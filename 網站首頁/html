@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> 測試網頁預覽 </title>
+    <style>
+      header,footer {display:block;clear:both;text-align:right}
+      nav {display:block;float:left;background:brown;width:20%;height:70%;text-align:left}
+      article {display:block;float:right;background:gray;width:80%;height:70%;text-align:center}
+    </style>
+  </head>
+  <body>
+    <hgroup>
+      <h1 align="center"> 常用網站 </h1>
+      <h2> 原網站連結 </h2>
+    </hgroup>
+    <nav>
+      <ul>
+        <li><a href="https://www.youtube.com/"> Youtube </a></li>
+        <li><a href="https://www.gamer.com.tw/"> 巴哈姆特 </a></li>
+        <li><a href="https://store.steampowered.com/?l=tchinese"> steam </a></li>
+      </ul>
+    </nav>
+    <article>
+      <p> 不想一天到晚挖之前看過的東西，也不想讓電腦書籤多一堆東西。＜/p>
+    </article>
+    <footer>
+      <p> <small> 學術參考用，無盜版之意。　</small> </p>
+    </footer>
+  </body>
+</html>
